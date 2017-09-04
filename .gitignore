@@ -1,4 +1,4 @@
-.idea/
+npm run start.idea/
 .vscode/
 .DS_Store
 *.lock
