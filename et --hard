@@ -1,0 +1,24 @@
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{1}: checkout: moving from dev5 to dev6
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{2}: checkout: moving from dev4 to dev5
+[33m722311e[m[33m ([m[1;32mdev4[m[33m)[m HEAD@{3}: checkout: moving from dev5 to dev4
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{4}: checkout: moving from dev7 to dev5
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{5}: checkout: moving from dev6 to dev7
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{6}: checkout: moving from dev7 to dev6
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{7}: reset: moving to cf87f6d
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{9}: checkout: moving from dev6 to dev7
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{10}: checkout: moving from dev5 to dev6
+[33mcf87f6d[m[33m ([m[1;36mHEAD -> [m[1;32mdev6[m[33m, [m[1;31morigin/dev7[m[33m, [m[1;31morigin/dev6[m[33m, [m[1;31morigin/dev5[m[33m, [m[1;32mdev7[m[33m, [m[1;32mdev5[m[33m)[m HEAD@{11}: commit: сделал 6 заданиеÐ
+[33m722311e[m[33m ([m[1;32mdev4[m[33m)[m HEAD@{12}: checkout: moving from dev4 to dev5
+[33m722311e[m[33m ([m[1;32mdev4[m[33m)[m HEAD@{13}: checkout: moving from dev3 to dev4
+[33m58799e9[m[33m ([m[1;31morigin/dev3[m[33m, [m[1;32mdev3[m[33m)[m HEAD@{14}: commit: дисправил рекурсивное удалениеÐ
+[33m37462fc[m HEAD@{15}: checkout: moving from dev4 to dev3
+[33m722311e[m[33m ([m[1;32mdev4[m[33m)[m HEAD@{16}: commit: 1
+[33m8dd0760[m[33m ([m[1;31morigin/dev4[m[33m)[m HEAD@{17}: commit: сделал 6 заданий
+[33m37462fc[m HEAD@{18}: checkout: moving from dev3 to dev4
+[33m37462fc[m HEAD@{19}: commit: проблемма с рекурсиейÐ
+[33m02cb097[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{20}: checkout: moving from dev2 to dev3
+[33m02cb097[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{21}: commit: сделал 7 заданийÐ
+[33m121a3de[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{22}: checkout: moving from master to dev2
+[33m121a3de[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{23}: clone: from git@github.com:KingAlex1/test.git
